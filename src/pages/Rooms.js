@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from '../components/Header';
+import Header from '../components/Header';  
 import RoomCard from '../components/RoomCard';
 
 const Rooms = () => {
